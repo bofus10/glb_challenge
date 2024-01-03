@@ -31,7 +31,8 @@
 - Make use of your personal git accounts to collaborate with your teammates
 - I have uploaded an example web application to: https://github.com/bofus10/glb_challenge
 - Example looking site
-![alt text](example.png)
+
+    + ![alt text](example.png)
 
 ## Application Example
 Simple python web app that displays notes taken from a DB and lets add more.
